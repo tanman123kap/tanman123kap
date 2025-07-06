@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 I am an undergrad student in I.T field.
 - I’m currently working on Mern Stack projects
-- Ask me about - Backend development(Nodejs, Expressjs), Frontend development(Reactjs), Responsive Design(Html, Css, Javascript)
+- Ask me about - Backend development(Nodejs, Expressjs), Frontend development(Reactjs), Responsive Design(Html, Css, Javascript), Database(MongoDB)
 - Hobbies - Reading, Star gazing
 - Work in Progress - Multi-vendor E-commerce Web Application
